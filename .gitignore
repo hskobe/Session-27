@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Files to ignore
+Day2/data/scocen_tess_2min.npz
